@@ -1,0 +1,7 @@
+{
+  "url": "https://httpbin.org/uuid",
+  "http_status": 200,
+  "worked": true,
+  "uuid": "8f742d81-37a5-4c35-81b2-c4f340a7f554",
+  "imd_seat_id": "unavailable"
+}
